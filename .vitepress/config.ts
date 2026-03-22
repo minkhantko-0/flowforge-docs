@@ -57,7 +57,7 @@ export default defineConfig({
     socialLinks: [
       {
         icon: "github",
-        link: "https://github.com/psp-kbz/dynamic-workflow",
+        link: "https://github.com/minkhantko-0/flowforge-docs",
       },
     ],
 
