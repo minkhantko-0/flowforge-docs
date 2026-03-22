@@ -1,5 +1,7 @@
 # Workflow Engine
 
+> **Repository:** [github.com/mmhkbz/poc-workflow-engine](https://github.com/mmhkbz/poc-workflow-engine)
+
 The workflow engine (`poc-workflow-engine`) is a Hono-based Node.js backend that executes workflow definitions, manages tasks, monitors SLAs, and processes events. It is the core runtime of the platform.
 
 ## Tech Stack

@@ -1,5 +1,7 @@
 # Admin Portal
 
+> **Repository:** [github.com/psp-kbz/dynamic-workflow](https://github.com/psp-kbz/dynamic-workflow)
+
 The admin portal (`dynamic-workflow`) is a React application for managing the entire platform: building forms, designing workflows, creating mappings, and monitoring execution in real-time.
 
 ## Tech Stack

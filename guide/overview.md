@@ -55,10 +55,10 @@ The platform consists of two core systems and a demo project:
 
 ### Core Systems
 
-| System | Role | Port |
-|--------|------|------|
-| **Admin Portal** (`dynamic-workflow`) | Build forms, design workflows, create mappings, monitor execution | 5174 |
-| **Workflow Engine** (`poc-workflow-engine`) | Execute workflows, manage tasks, process SLAs, handle events | 3002 |
+| System | Role | Port | Repository |
+|--------|------|------|------------|
+| **Admin Portal** (`dynamic-workflow`) | Build forms, design workflows, create mappings, monitor execution | 5174 | [GitHub](https://github.com/psp-kbz/dynamic-workflow) |
+| **Workflow Engine** (`poc-workflow-engine`) | Execute workflows, manage tasks, process SLAs, handle events | 3002 | [GitHub](https://github.com/mmhkbz/poc-workflow-engine) |
 
 ### Supporting Services
 
@@ -71,9 +71,9 @@ The platform consists of two core systems and a demo project:
 
 ### Demo Project
 
-| Project | Role | Port |
-|---------|------|------|
-| **Request Form Demo** (`request-form-demo`) | Shows how to build a user-facing portal that renders forms and submits to workflows | 5173 |
+| Project | Role | Port | Repository |
+|---------|------|------|------------|
+| **Request Form Demo** (`request-form-demo`) | Shows how to build a user-facing portal that renders forms and submits to workflows | 5173 | [GitHub](https://github.com/minkhantko-0/request-form-demo) |
 
 ## Key Capabilities
 

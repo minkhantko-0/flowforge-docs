@@ -15,7 +15,7 @@ This guide explains how to integrate FlowForge into your own project. There are 
 
 ## Approach 1: Full System Integration
 
-Deploy the workflow engine and admin portal alongside your application. Your frontend acts as the user-facing layer (like the `request-form-demo` project).
+Deploy the workflow engine and admin portal alongside your application. Your frontend acts as the user-facing layer (like the [`request-form-demo`](https://github.com/minkhantko-0/request-form-demo) project).
 
 ### Step 1: Deploy the Infrastructure
 
