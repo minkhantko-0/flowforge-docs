@@ -5,7 +5,11 @@ export default defineConfig({
   description:
     "A workflow automation platform with dynamic JSON forms and a visual workflow builder",
   base: "/",
-  head: [["link", { rel: "icon", href: "/favicon.ico" }]],
+  head: [
+    ["link", { rel: "icon", type: "image/x-icon", href: "/logo.ico" }],
+    ["link", { rel: "icon", type: "image/png", sizes: "32x32", href: "/logo.png" }],
+    ["link", { rel: "apple-touch-icon", sizes: "180x180", href: "/logo.png" }],
+  ],
 
   locales: {
     root: {
@@ -117,7 +121,7 @@ export default defineConfig({
   },
 
   themeConfig: {
-    logo: "/logo.svg",
+    logo: { src: "/logo.png", width: 36, height: 36 },
     siteTitle: "FlowForge",
 
     socialLinks: [
